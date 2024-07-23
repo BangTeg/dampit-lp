@@ -11,11 +11,11 @@ function Contact() {
 				<div className="container">
 					<div className="contact-div">
 						<div className="contact-div__text">
-							<h2>Need additional information?</h2>
+							<h2>Ada Pertanyaan?</h2>
 							<p>
-							<strong>Dampit Trans Solo</strong> as a car rental service provider in Solo, are ready to assist you in finding a car that suits your needs. 
-							Please do not hesitate to contact us via phone or email below, or you can come directly to our office. 
-							We will be happy to assist you!
+							<strong>Dampit Trans Solo</strong> sebagai penyedia layanan sewa mobil di Solo, siap membantu Anda dalam menemukan mobil yang sesuai dengan kebutuhan Anda. 
+							Jangan ragu untuk menghubungi kami melalui telepon atau email di bawah ini, atau Anda dapat datang langsung ke kantor kami. 
+							Kami akan dengan senang hati membantu Anda!
 							</p>
 							<a href="tel: +6281212926365" className="flex gap-3 items-center justify-center">
 								<IconPhone /> &nbsp; (+62)812-1292-6365 (Nunik)
@@ -48,7 +48,7 @@ function Contact() {
 					<div className="book-banner__overlay"></div>
 					<div className="container">
 						<div className="text-content">
-							<h2>Contact our admins for more informations</h2>
+							<h2>Hubungi Admin Kami Sekarang!</h2>
 							<span>
 								<IconPhone width={40} height={40} />
 								<h3>(+62) 812-1292-6365 (Nunik)</h3>

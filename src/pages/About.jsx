@@ -20,21 +20,21 @@ function About() {
               alt="car-renting"
             />
             <div className="about-main__text">
-              <h3>About Dampit Trans Solo</h3>
-              <h2>Affordable, Comfortable, Safe, and Fun Car Rental Services</h2>
+              <h3>Tentang Dampit Trans Solo</h3>
+              <h2>Rental Mobil Nyaman, Aman, dan Terjangkau di Kota Solo</h2>
               <p>
-                At Dampit Trans Solo, we strive to provide the best car rental services that cater to your needs. 
-                Whether you're traveling for business or leisure, our fleet of high-quality vehicles ensures a comfortable and enjoyable journey. 
-                With our affordable rates, you can experience the convenience of having your own transportation without breaking the bank. 
-                Safety is our top priority, and we maintain our vehicles to the highest standards to ensure your peace of mind. 
-                Discover the joy of exploring Solo City and its surroundings with Dampit Trans Solo car rental services.
+                Di Dampit Trans Solo, kami berkomitmen menyediakan layanan sewa mobil terbaik yang sesuai dengan kebutuhan Anda. 
+                Baik untuk perjalanan bisnis atau liburan, armada kendaraan berkualitas tinggi kami menjamin perjalanan yang nyaman dan menyenangkan. 
+                Dengan harga sewa yang terjangkau, Anda dapat menikmati kemudahan memiliki transportasi sendiri tanpa harus mengeluarkan biaya yang besar. 
+                Keamanan adalah prioritas utama kami. Kendaraan kami dirawat dengan standar tertinggi untuk memastikan ketenangan pikiran Anda. 
+                Jelajahi keindahan Kota Solo dan sekitarnya dengan penuh kegembiraan bersama layanan sewa mobil Dampit Trans Solo. 
               </p>
               <div className="about-main__text__icons">
                 <div className="about-main__text__icons__box">
                   <img src={Box1} alt="car-icon" />
                   <span>
-                    <h4>15+</h4>
-                    <p>Car Units</p>
+                    <h4>30+</h4>
+                    <p>Unit Kendaraan</p>
                   </span>
                 </div>
                 <div className="about-main__text__icons__box">
@@ -48,7 +48,7 @@ function About() {
                   <img src={Box3} alt="car-icon" className="last-fk" />
                   <span>
                     <h4>500+</h4>
-                    <p>Trips</p>
+                    <p>Perjalanan</p>
                   </span>
                 </div>
               </div>
@@ -61,7 +61,7 @@ function About() {
         <div className="book-banner__overlay"></div>
         <div className="container">
           <div className="text-content">
-            <h2>Contact our admins for more informations</h2>
+            <h2>Hubungi Kontak Admin Untuk Informasi Lebih Lanjut</h2>
             <span>
               <IconPhone width={40} height={40} />
               <h3>(+62) 812-1292-6365 (Nunik)</h3>

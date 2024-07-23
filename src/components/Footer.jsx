@@ -34,7 +34,7 @@ function Footer() {
 						</ul>
 
 						<ul className="footer-content__2">
-							<li>Quick Links</li>
+							<li>Halaman</li>
 							<li>
 								<a href="/">Homepage</a>
 							</li>
@@ -54,7 +54,7 @@ function Footer() {
 						<ul className="footer-content__2 mx-auto">
 							<li>Alamat</li>
 							<li>
-								<iframe
+								{/* <iframe
 									src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3955.003945292506!2d110.77274617476364!3d-7.5745471924396925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a151b0ada830f%3A0xc09b4ee050473823!2sDampit%20Trans%20Rental%20Mobil%20Solo!5e0!3m2!1sen!2sid!4v1705850287319!5m2!1sen!2sid"
 									width="300"
 									height="200"
@@ -62,7 +62,8 @@ function Footer() {
 									allowFullScreen=""
 									loading="lazy"
 									referrerPolicy="no-referrer-when-downgrade"
-									title="Google Maps"></iframe>
+									title="Google Maps"></iframe> */}
+									Jl. Jagir No.Rt 01/01, Dusun I, Gentan, Kec. Baki, Kabupaten Sukoharjo, Jawa Tengah 57556
 							</li>
 						</ul>
 					</div>
