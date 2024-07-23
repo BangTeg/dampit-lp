@@ -61,7 +61,7 @@ function About() {
         <div className="book-banner__overlay"></div>
         <div className="container">
           <div className="text-content">
-            <h2>Hubungi Kontak Admin Untuk Informasi Lebih Lanjut</h2>
+            <h2>Hubungi Admin Kami Sekarang!</h2>
             <span>
               <IconPhone width={40} height={40} />
               <h3>(+62) 812-1292-6365 (Nunik)</h3>
