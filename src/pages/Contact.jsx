@@ -23,8 +23,8 @@ function Contact() {
 							<a href="tel: +6282136488824" className="flex gap-3 items-center justify-center">
 								<IconPhone /> &nbsp; (+62)821-3648-8824 (Wied)
 							</a>
-							<a href="mailto: nunikkembar.nk@gmail.com" className="flex gap-3 items-center justify-center">
-								<IconMail /> &nbsp; nunikkembar.nk@gmail.com
+							<a href="mailto: dampittrans@gmail.com" className="flex gap-3 items-center justify-center">
+								<IconMail /> &nbsp; dampittrans@gmail.com
 							</a>
 							<a
 								href="https://maps.app.goo.gl/1ojPxCzHimp6WrLBA"

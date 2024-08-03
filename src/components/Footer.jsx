@@ -25,10 +25,10 @@ function Footer() {
 
 							<li>
 								<a
-									href="mailto: nunikkembar.nk@gmail.com"
+									href="mailto: dampittrans@gmail.com"
 									className="flex gap-3">
 									<IconMail />
-									&nbsp; nunikkembar.nk@gmail.com
+									&nbsp; dampittrans@gmail.com
 								</a>
 							</li>
 						</ul>
