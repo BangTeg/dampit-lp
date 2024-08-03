@@ -111,6 +111,19 @@ body {
 	height: auto;
 }
 
+/* Add media queries for responsive design */
+@media (max-width: 768px) {
+    .navbar__img {
+        width: 60px; /* smaller width for smaller screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar__img {
+        width: 40px; /* even smaller width for very small screens */
+    }
+}
+
 .navbar__links {
 	display: flex;
 	list-style: none;
